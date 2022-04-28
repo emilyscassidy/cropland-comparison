@@ -31,5 +31,6 @@ Goal: Develop a resource to compare crop maps from different sources.
 
 A breif summary of the code workflow is below.
 
-<img width="867" alt="Cropland Comparison workflow" src="https://user-images.githubusercontent.com/58826433/165811524-2c07475a-d1d9-410e-a348-f765d0307e0a.png">
+<img width="783" alt="Cropland comparison workflow diagram" src="https://user-images.githubusercontent.com/58826433/165812061-4de7e183-3bac-4613-986d-33fa8d540ba4.png">
+
 
