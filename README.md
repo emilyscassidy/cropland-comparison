@@ -27,4 +27,9 @@ International Food Policy Research Institute, 2019, “Global Spatially-Disaggre
 
 
 ## Workflow
-Developing resources to compare crop maps from different sources.
+Goal: Develop a resource to compare crop maps from different sources.
+
+A breif summary of the code workflow is below.
+
+<img width="867" alt="Cropland Comparison workflow" src="https://user-images.githubusercontent.com/58826433/165811524-2c07475a-d1d9-410e-a348-f765d0307e0a.png">
+
